@@ -1,5 +1,3 @@
-![banner](https://user-images.githubusercontent.com/8822075/157930795-b70b0125-604a-42db-b9c3-ad68d91067df.png)
-
 
 Hi my name's James! I'm a fullstack developer with a passion for geospatial. Currently I am: 
 
